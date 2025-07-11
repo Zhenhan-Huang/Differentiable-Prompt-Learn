@@ -51,7 +51,7 @@ DPL is released under the Apache License. Please see the [LICENSE](LICENSE) file
 If you find this repo is helpful, please kindly consider citing our work:
 
 ```
-@article{huang2025tdtrasnformer
+@article{huang2025dpl
     title={Differentiable Prompt Learning for Vision Language Models},
     author={Huang, Zhenhan and Pedapati, Tejaswini and Chen, Pin-Yu and Gao, Jianxi},
     journal={34th International Joint Conference on Artificial Intelligence},
@@ -61,4 +61,4 @@ If you find this repo is helpful, please kindly consider citing our work:
 
 ## Acknowledgement
 
-Our work is built based on [CoOp](https://github.com/KaiyangZhou/CoOp).
+Our work is built upon [CoOp](https://github.com/KaiyangZhou/CoOp). We extend our gratitude to authors.
